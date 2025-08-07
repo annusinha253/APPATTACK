@@ -12,9 +12,9 @@
 | Devanshu Mahato  | UI/UX Designer |
 | Abhishek Ghosh   | UI/UX Designer  |
 
-#PROBLEM STATEMENT: 
+**PROBLEM STATEMENT:** 
 **Problem 2: Recipe Finder UI**
 **Build a front-end interface to browse or search recipes.**
-#FEATURES IMPLEMENTED:
+**FEATURES IMPLEMENTED:**
 #TECH STACK USED:
 #DEPLOYMENT LINK:
