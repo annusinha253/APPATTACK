@@ -12,9 +12,24 @@
 | Devanshu Mahato  | UI/UX Designer |
 | Abhishek Ghosh   | UI/UX Designer  |
 
-**PROBLEM STATEMENT:** 
+# PROBLEM STATEMENT:
 **Problem 2: Recipe Finder UI**
 **Build a front-end interface to browse or search recipes.**
-**FEATURES IMPLEMENTED:**
-#TECH STACK USED:
-#DEPLOYMENT LINK:
+# FEATURES IMPLEMENTED: 
+-**Light and dark mode**
+-**filter for veg and non veg options**
+-**favorite section to add your favorite recipes**
+-**A foodie buddy chatbot**
+-**recommendations**
+# TECH STACK USED:
+- **React.js**
+- **Next.js**
+- **Express.js**
+- **HTML**
+- **CSS**
+- **JavaScript**
+- **API** (OpenAI, Gemini for chatbot)
+- **MealDB API**
+- **Netlify** for deployment
+
+# DEPLOYMENT LINK:
