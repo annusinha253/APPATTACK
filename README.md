@@ -1,8 +1,9 @@
 # APP_ATTACK
 # CODEX GRIMOIRE -BHUKKAR
-#Web Wizard And App Attack AJU 
-#TEAM NAME- CODEX GRIMOIRE
-#PROJECT TITLE- BHUKKAR
+**Web Wizard And App Attack AJU**  
+**TEAM NAME - CODEX GRIMOIRE**  
+**PROJECT TITLE - BHUKKAR**
+
 ## 👥 Team Members
 | Name             | Role         |
 |------------------|--------------|
