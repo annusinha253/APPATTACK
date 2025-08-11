@@ -1,0 +1,245 @@
+{
+  "recipes": [
+    {
+      "id": 1,
+      "name": "Margherita Pizza",
+      "category": "veg",
+      "cookingTime": "30 min",
+      "difficulty": "Easy",
+      "image": "https://images.unsplash.com/photo-1604382355076-af4b0eb60143?w=400&h=300&fit=crop",
+      "ingredients": [
+        "2 cups all-purpose flour",
+        "1 cup warm water",
+        "2 1/4 tsp active dry yeast",
+        "1 tsp salt",
+        "1 tbsp olive oil",
+        "1 cup tomato sauce",
+        "2 cups mozzarella cheese",
+        "Fresh basil leaves"
+      ],
+      "instructions": [
+        "Mix flour, yeast, and salt in a large bowl",
+        "Add warm water and olive oil, knead for 10 minutes",
+        "Let dough rise for 1 hour",
+        "Roll out dough and add tomato sauce",
+        "Top with cheese and basil",
+        "Bake at 450°F for 15-20 minutes"
+      ],
+      "nutrition": {
+        "calories": 285,
+        "protein": "12g",
+        "carbs": "35g",
+        "fat": "10g"
+      },
+      "isFavorite": false
+    },
+    {
+      "id": 2,
+      "name": "Chicken Tikka Masala",
+      "category": "non-veg",
+      "cookingTime": "45 min",
+      "difficulty": "Medium",
+      "image": "https://images.unsplash.com/photo-1565557623262-b51c2513a641?w=400&h=300&fit=crop",
+      "ingredients": [
+        "500g chicken breast",
+        "1 cup yogurt",
+        "2 tbsp tikka masala paste",
+        "1 onion, chopped",
+        "2 tomatoes, pureed",
+        "1 cup heavy cream",
+        "2 tbsp oil",
+        "Fresh cilantro"
+      ],
+      "instructions": [
+        "Marinate chicken in yogurt and tikka masala for 2 hours",
+        "Grill chicken until charred",
+        "Sauté onions until golden",
+        "Add tomato puree and cook for 10 minutes",
+        "Add grilled chicken and cream",
+        "Simmer for 15 minutes, garnish with cilantro"
+      ],
+      "nutrition": {
+        "calories": 420,
+        "protein": "28g",
+        "carbs": "8g",
+        "fat": "32g"
+      },
+      "isFavorite": false
+    },
+    {
+      "id": 3,
+      "name": "Quick Pasta Carbonara",
+      "category": "quick",
+      "cookingTime": "15 min",
+      "difficulty": "Easy",
+      "image": "https://images.unsplash.com/photo-1621996346565-e3dbc353d2e5?w=400&h=300&fit=crop",
+      "ingredients": [
+        "400g spaghetti",
+        "200g pancetta or bacon",
+        "4 egg yolks",
+        "1/2 cup parmesan cheese",
+        "Black pepper",
+        "Salt"
+      ],
+      "instructions": [
+        "Cook pasta according to package instructions",
+        "Fry pancetta until crispy",
+        "Mix egg yolks with parmesan and pepper",
+        "Combine hot pasta with egg mixture",
+        "Add pancetta and serve immediately"
+      ],
+      "nutrition": {
+        "calories": 580,
+        "protein": "22g",
+        "carbs": "65g",
+        "fat": "28g"
+      },
+      "isFavorite": false
+    },
+    {
+      "id": 4,
+      "name": "Vegetable Stir Fry",
+      "category": "veg",
+      "cookingTime": "20 min",
+      "difficulty": "Easy",
+      "image": "https://images.unsplash.com/photo-1512621776951-a57141f2eefd?w=400&h=300&fit=crop",
+      "ingredients": [
+        "2 cups mixed vegetables",
+        "2 tbsp soy sauce",
+        "1 tbsp ginger, minced",
+        "2 cloves garlic, minced",
+        "2 tbsp oil",
+        "1 tsp sesame oil",
+        "Salt and pepper"
+      ],
+      "instructions": [
+        "Heat oil in a wok or large pan",
+        "Add ginger and garlic, stir for 30 seconds",
+        "Add vegetables and stir fry for 5 minutes",
+        "Add soy sauce and sesame oil",
+        "Season with salt and pepper"
+      ],
+      "nutrition": {
+        "calories": 120,
+        "protein": "4g",
+        "carbs": "15g",
+        "fat": "6g"
+      },
+      "isFavorite": false
+    },
+    {
+      "id": 5,
+      "name": "Beef Burger",
+      "category": "non-veg",
+      "cookingTime": "25 min",
+      "difficulty": "Easy",
+      "image": "https://images.unsplash.com/photo-1568901346375-23c9450c58cd?w=400&h=300&fit=crop",
+      "ingredients": [
+        "400g ground beef",
+        "4 burger buns",
+        "Lettuce, tomato, onion",
+        "Cheese slices",
+        "Ketchup and mustard",
+        "Salt and pepper"
+      ],
+      "instructions": [
+        "Form beef into 4 patties",
+        "Season with salt and pepper",
+        "Grill or pan-fry for 4-5 minutes each side",
+        "Add cheese in last minute of cooking",
+        "Assemble with vegetables and condiments"
+      ],
+      "nutrition": {
+        "calories": 650,
+        "protein": "35g",
+        "carbs": "45g",
+        "fat": "38g"
+      },
+      "isFavorite": false
+    },
+    {
+      "id": 6,
+      "name": "5-Minute Smoothie Bowl",
+      "category": "quick",
+      "cookingTime": "5 min",
+      "difficulty": "Easy",
+      "image": "https://images.unsplash.com/photo-1511690743698-d9d85f2fbf38?w=400&h=300&fit=crop",
+      "ingredients": [
+        "2 frozen bananas",
+        "1 cup frozen berries",
+        "1/2 cup almond milk",
+        "Toppings: granola, fresh fruit, nuts"
+      ],
+      "instructions": [
+        "Blend frozen bananas and berries",
+        "Add almond milk gradually",
+        "Pour into bowl",
+        "Top with granola, fruit, and nuts"
+      ],
+      "nutrition": {
+        "calories": 280,
+        "protein": "6g",
+        "carbs": "45g",
+        "fat": "8g"
+      },
+      "isFavorite": false
+    },
+    {
+      "id": 7,
+      "name": "Caesar Salad",
+      "category": "veg",
+      "cookingTime": "10 min",
+      "difficulty": "Easy",
+      "image": "https://images.unsplash.com/photo-1546793665-c74683f339c1?w=400&h=300&fit=crop",
+      "ingredients": [
+        "1 head romaine lettuce",
+        "1/2 cup parmesan cheese",
+        "1 cup croutons",
+        "1/4 cup caesar dressing",
+        "Black pepper"
+      ],
+      "instructions": [
+        "Chop lettuce into bite-sized pieces",
+        "Add parmesan cheese and croutons",
+        "Drizzle with caesar dressing",
+        "Season with black pepper and toss"
+      ],
+      "nutrition": {
+        "calories": 180,
+        "protein": "8g",
+        "carbs": "12g",
+        "fat": "12g"
+      },
+      "isFavorite": false
+    },
+    {
+      "id": 8,
+      "name": "Grilled Salmon",
+      "category": "non-veg",
+      "cookingTime": "20 min",
+      "difficulty": "Medium",
+      "image": "https://images.unsplash.com/photo-1467003909585-2f8a72700288?w=400&h=300&fit=crop",
+      "ingredients": [
+        "4 salmon fillets",
+        "2 tbsp olive oil",
+        "1 lemon",
+        "2 tbsp dill",
+        "Salt and pepper"
+      ],
+      "instructions": [
+        "Preheat grill to medium-high",
+        "Brush salmon with olive oil",
+        "Season with salt, pepper, and dill",
+        "Grill for 4-5 minutes each side",
+        "Serve with lemon wedges"
+      ],
+      "nutrition": {
+        "calories": 320,
+        "protein": "34g",
+        "carbs": "2g",
+        "fat": "18g"
+      },
+      "isFavorite": false
+    }
+  ]
+} 
