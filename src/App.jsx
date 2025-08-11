@@ -2,7 +2,7 @@
 import './App.css';
 import React, { useEffect, useState } from 'react';
 import MainPage from "./components/MainPage";
-import Chatbot from "./components/Chatbot";
+import Chatbot from "./components/chatbot";
 import ThemeAndLangToggle from "./components/ThemeAndLangToggle";
 
 function App() {
